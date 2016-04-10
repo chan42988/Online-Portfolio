@@ -23,20 +23,13 @@ a:hover {
   color: pink;
 }
 
-img {
-  width: 100%;
-  text-align: center;
-}
-
-#cool_image {
-  width: 85%;
-  color: #ffffff;
-  margin: auto;
-}
-
-footer {
-  padding-right: 50px;
+#stuff {
+  margin-top: 10%;
+  padding: 10px;
+  width: 56%;
+  display: inline-block;
+  border: solid 3px #ffffff;
   font-style: italic;
   color: #ffffff;
-  float: right;
+  font-size: 30px;
 }
