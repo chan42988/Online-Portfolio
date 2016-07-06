@@ -1,0 +1,46 @@
+#wrapper {
+  height: 700px;
+  width: 950px;
+  text-align: center;
+  font-family: "didot", didot; 
+}
+
+nav li {
+  display: inline-block;
+  line-height: 50px;
+  width: 200px;
+  border: solid 1px #73AD21;
+}
+
+a:hover {
+  font-size: 30px;
+}
+
+#header {
+  background-color: #0059b3;
+  margin: auto;
+  width: 100%;
+  font-style: bold;
+  font-size: 25px;
+  color: #ffffff;
+}
+
+img {
+  width: 100%;
+}
+
+#image {
+  width: 80%;
+  float: right;
+}
+
+#social {
+  position: fixed;
+  padding-left: 40px;
+  width: 10%;
+  float: left;
+}
+
+footer {
+  text-align: center;
+}

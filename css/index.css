@@ -1,35 +1,27 @@
 #wrapper {
-  border: solid 1px #ffffff;
-  height: 560px;
-  width: 950px;
+  height: 100%;
+  width: 100%;
   background: black;
   text-align: center;
   font-family: "didot", didot; 
 }
 
+body {
+  background: black;
+}
+
 nav li {
-  border: solid 3px #ffffff;
   display: inline-block;
   line-height: 50px;
   width: 250px;
 }
 
 nav {
-  font-size: 8px;
-}
-
-a:hover {
-  font-size: 50px;
-  color: pink;
-}
-
-img {
-  width: 100%;
-  text-align: center;
+  font-size: 18px;
 }
 
 #cool_image {
-  width: 85%;
+  text-align: center;
   color: #ffffff;
   margin: auto;
 }

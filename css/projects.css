@@ -1,26 +1,23 @@
 #wrapper {
-  border: solid 1px #ffffff;
-  height: 560px;
-  width: 950px;
-  background: black;
+  /*border: solid 1px #ffffff;*/
+  height: 100%;
+  width: 100%;
   text-align: center;
   font-family: "didot", didot; 
 }
 
+body {
+  background: black;
+}
+
 nav li {
-  border: solid 3px #ffffff;
   display: inline-block;
   line-height: 50px;
   width: 250px;
 }
 
 nav {
-  font-size: 8px;
-}
-
-a:hover {
-  font-size: 50px;
-  color: pink;
+  font-size: 18px;
 }
 
 #stuff {
@@ -28,7 +25,6 @@ a:hover {
   padding: 10px;
   width: 56%;
   display: inline-block;
-  border: solid 3px #ffffff;
   font-style: italic;
   color: #ffffff;
   font-size: 30px;

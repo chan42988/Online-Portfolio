@@ -1,0 +1,41 @@
+#wrapper {
+  height: 700px;
+  width: 950px;
+  text-align: center;
+  font-family: "didot", didot; 
+}
+
+nav li {
+  border: solid 1px #73AD21;
+  display: inline-block;
+  line-height: 50px;
+  width: 200px;
+}
+
+a:hover {
+    font-size: 30px;
+}
+
+h1 {
+      text-align: center;
+}
+
+#left-bar {
+      float: left;
+      width: 35%;
+}
+
+#main-content {
+      padding-left: 15px;
+      padding-right: 10px;
+      float: left;
+      width: 40%;
+}
+
+#right-bar {
+      height: 66%;
+      width: 22%;
+      color: #ffffff;
+      float: right;
+      background-color: #0059b3;
+}
