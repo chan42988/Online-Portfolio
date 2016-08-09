@@ -1,7 +1,4 @@
 #wrapper {
-  height: 100%;
-  width: 100%;
-  background: black;
   text-align: center;
   font-family: "didot", didot; 
 }
@@ -12,15 +9,23 @@ body {
 
 nav li {
   display: inline-block;
-  line-height: 50px;
-  width: 250px;
+  line-height: 30px;
+  width: 85px;
 }
 
 nav {
-  font-size: 18px;
+  position: relative;
+  right: 40px;
+  float: right;
+  font-size: 16px;
 }
 
-#cool_image {
+hr {
+  position: relative;
+  top: 60px;
+}
+
+/*#cool_image {
   text-align: center;
   color: #ffffff;
   margin: auto;
@@ -31,4 +36,4 @@ footer {
   font-style: italic;
   color: #ffffff;
   float: right;
-}
+}*/
