@@ -1,28 +1,36 @@
-#wrapper {
+.wrapper {
   text-align: center;
+  font-family: "didot", didot; 
+  position: relative;
+  left: 443px;
+  font-size: 16px;
+}
+
+.words {
+  position: relative;
+  top: 125px;
+  font-size: 44px;
+  color: white;
   font-family: "didot", didot; 
 }
 
 body {
-  background: black;
+  background: grey;
 }
 
 nav li {
   display: inline-block;
-  line-height: 30px;
-  width: 85px;
-}
-
-nav {
-  position: relative;
-  right: 40px;
-  float: right;
-  font-size: 16px;
+  width: 125px;
 }
 
 hr {
   position: relative;
-  top: 60px;
+  top: 5px;
+}
+
+.hr1 {
+  position: relative;
+  top: 115px;
 }
 
 /*#cool_image {
