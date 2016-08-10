@@ -1,48 +1,48 @@
-#wrapper {
-  height: 100%;
-  width: 100%;
+.wrapper {
   text-align: center;
   font-family: "didot", didot; 
+  position: relative;
+  left: 360px;
+  font-size: 16px;
 }
 
 body {
-  background: black;
+  background: grey;
 }
 
 nav li {
   display: inline-block;
-  line-height: 50px;
-  width: 250px;
+  width: 130px;
 }
 
-nav {
-  font-size: 18px;
+hr {
+  position: relative;
+  top: 5px;
 }
 
-h1 {
-  text-align: center;
-  background:;
+.hr1 {
+  position: relative;
+  top: 115px;
 }
 
 img {
+  position: relative;
+  top: 130px;
+  right: 35px;
   margin-top: 1px;
   margin-left: 5%;
-  border: solid 3px #ffffff;
-  float: left;
+  float: right;
   width: 22%;
 }
 
 #desc {
+  position: relative;
+  top: 112px;
+  font-size: 20px;
   margin-top: 1px;
   padding: 10px;
-  width: 56%;
+  width: 70%;
   display: inline-block;
-  border: solid 3px #ffffff;
   color: #ffffff;
-  background-color: black;
-}
-
-#social {
-  width: 20%;
-  display: inline-block;
+  background-color: grey;
 }
