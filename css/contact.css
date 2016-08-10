@@ -1,4 +1,36 @@
-#social {
-  width: 20%;
+.wrapper {
+  text-align: center;
+  font-family: "didot", didot; 
+  position: relative;
+  left: 360px;
+  font-size: 16px;
+}
+
+A {
+  text-decoration: none;
+}
+
+body {
+  background: grey;
+}
+
+nav li {
   display: inline-block;
+  width: 130px;
+}
+
+hr {
+  position: relative;
+  top: 5px;
+}
+
+.hr1 {
+  position: relative;
+  top: 115px;
+}
+
+img {
+	position: relative;
+	top: 150px;
+  width: 10%;
 }

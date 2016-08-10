@@ -6,6 +6,10 @@
   font-size: 16px;
 }
 
+A {
+  text-decoration: none;
+}
+
 body {
   background: grey;
 }
@@ -27,7 +31,7 @@ hr {
 
 img {
   position: relative;
-  top: 130px;
+  top: 136px;
   right: 35px;
   margin-top: 1px;
   margin-left: 5%;

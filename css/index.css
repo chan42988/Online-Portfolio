@@ -6,6 +6,10 @@
   font-size: 16px;
 }
 
+A {
+  text-decoration: none;
+}
+
 .words {
   position: relative;
   top: 85px;
@@ -33,16 +37,3 @@ hr {
   position: relative;
   top: 115px;
 }
-
-/*#cool_image {
-  text-align: center;
-  color: #ffffff;
-  margin: auto;
-}
-
-footer {
-  padding-right: 50px;
-  font-style: italic;
-  color: #ffffff;
-  float: right;
-}*/
