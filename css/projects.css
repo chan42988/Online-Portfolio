@@ -10,10 +10,6 @@ A {
   text-decoration: none;
 }
 
-body {
-  background: grey;
-}
-
 nav li {
   display: inline-block;
   width: 130px;
@@ -32,17 +28,35 @@ hr {
 .stuff1 {
   float: left;
   position: relative;
-  left: 225px;
+  left: 50px;
   top: 100px;
   font-size: 50px;
-  color: #ffffff;
+  color: #0000A0;
+}
+
+.JP {
+  position: relative;
+  right: 18px;
+}
+
+.stuff2 {
+  float: left;
+  position: relative;
+  left: 210px;
+  top: 200px;
+  font-size: 50px;
+  color: #0000A0;
 }
 
 .stuff {
   float: right;
   position: relative;
-  right: 225px;
-  top: 100px;
+  right: 55px;
+  top: 300px;
   font-size: 50px;
-  color: #ffffff;
+  color: #0000A0;
+}
+
+.under {
+  font-size: 20px;
 }

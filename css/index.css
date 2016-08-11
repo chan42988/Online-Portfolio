@@ -15,12 +15,11 @@ A {
   top: 85px;
   left: 20px;
   font-size: 40px;
-  color: white;
   font-family: "didot", didot; 
 }
 
 body {
-  background: grey;
+  background: RGBA(255, 233, 92, 1.00);
 }
 
 nav li {

@@ -10,10 +10,6 @@ A {
   text-decoration: none;
 }
 
-body {
-  background: grey;
-}
-
 nav li {
   display: inline-block;
   width: 130px;
@@ -47,6 +43,5 @@ img {
   padding: 10px;
   width: 70%;
   display: inline-block;
-  color: #ffffff;
-  background-color: grey;
+  color: #0000A0;
 }
