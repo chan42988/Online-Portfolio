@@ -26,6 +26,7 @@ hr {
 }
 
 .stuff1 {
+  z-index: 1;
   float: left;
   position: relative;
   left: 50px;
@@ -40,23 +41,30 @@ hr {
 }
 
 .stuff2 {
-  float: left;
   position: relative;
-  left: 210px;
+  left: 414px;
   top: 200px;
   font-size: 50px;
   color: #0000A0;
 }
 
-.stuff {
-  float: right;
+.SJ {
   position: relative;
-  right: 55px;
+  left: 195px;
+  top: 200px;
+}
+
+.stuff {
+  /*float: left;*/
+  position: relative;
+  left:270px;
   top: 300px;
   font-size: 50px;
   color: #0000A0;
 }
 
 .under {
+  position: relative;
+  left: 42px;
   font-size: 20px;
 }
