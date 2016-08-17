@@ -18,17 +18,21 @@ nav li {
 hr {
   position: relative;
   top: 5px;
+  border-color: #006600;
+  background-color: #006600;
+  height: 1px;
 }
 
 .hr1 {
   position: relative;
   top: 115px;
+  height: 2px;
 }
 
 img {
   position: relative;
   top: 140px;
-  right: 35px;
+  right: 142px;
   margin-top: 1px;
   margin-left: 5%;
   float: right;
@@ -38,10 +42,11 @@ img {
 #desc {
   position: relative;
   top: 112px;
-  font-size: 20px;
+  font-family: "didot", didot;
+  font-size: 16px;
   margin-top: 1px;
   padding: 10px;
-  width: 70%;
+  width: 52%;
   display: inline-block;
-  color: #0000A0;
+  color: #006600;
 }
