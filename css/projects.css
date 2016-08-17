@@ -18,6 +18,9 @@ nav li {
 hr {
   position: relative;
   top: 5px;
+  border-color: #006600;
+  background-color: #006600;
+  height: 1px;
 }
 
 .hr1 {
@@ -25,45 +28,45 @@ hr {
   top: 115px;
 }
 
-.stuff1 {
+.justplay {
   z-index: 1;
-  float: left;
   font-family: "didot", didot;
   position: relative;
-  left: 50px;
+  left: 230px;
   top: 100px;
   font-size: 50px;
-  color: #0000A0;
+  color: #006600;
 }
 
 .JP {
   position: relative;
-  right: 18px;
+  left: 164px;
+  top: 80px;
 }
 
-.stuff2 {
+.suzy {
   font-family: "didot", didot;
   position: relative;
-  left: 412px;
-  top: 100px;
+  left: 770px;
+  bottom: 646px;
   font-size: 50px;
-  color: #0000A0;
+  color: #006600;
 }
 
 .SJ {
   position: relative;
-  left: 195px;
-  top: 200px;
+  left: 675px;
+  bottom: 663px;
 }
 
-.stuff {
+.earlywork {
   /*float: left;*/
   font-family: "didot", didot;
   position: relative;
-  left: 500px;
-  top: 300px;
+  left: 230px;
+  bottom: 400px;
   font-size: 50px;
-  color: #0000A0;
+  color: #006600;
 }
 
 .under {
