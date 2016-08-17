@@ -29,10 +29,16 @@ hr {
   height: 2px;
 }
 
+/*.box {
+    width: 700px;
+    height: 600px;
+    border: 1px solid green;
+}*/
+
 img {
   position: relative;
   top: 140px;
-  right: 142px;
+  right: 176px;
   margin-top: 1px;
   margin-left: 5%;
   float: right;
@@ -42,11 +48,12 @@ img {
 #desc {
   position: relative;
   top: 112px;
+  left: 156px;
   font-family: "didot", didot;
   font-size: 16px;
   margin-top: 1px;
   padding: 10px;
-  width: 52%;
+  width: 48%;
   display: inline-block;
   color: #006600;
 }

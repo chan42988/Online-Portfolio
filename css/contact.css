@@ -11,7 +11,7 @@ A {
 }
 
 body {
-  background: #504A4B;
+  background: #006600;
 }
 
 nav li {
@@ -22,6 +22,9 @@ nav li {
 hr {
   position: relative;
   top: 5px;
+  height: 1px;
+  border-color: white;
+  background-color: white;
 }
 
 .hr1 {
