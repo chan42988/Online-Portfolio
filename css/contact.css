@@ -34,32 +34,44 @@ hr {
 
 .contactt {
   position: relative;
-  top: 150px;
+  top: 200px;
   left: 250px;
   color: white;
-  font-size: 16px;
+  font-size: 12px;
   font-family: "didot", didot; 
 }
 
 .contact {
   position: relative;
-  top: 150px;
+  top: 204px;
   left: 250px;
   color: white;
   font-size: 24px;
   font-family: "didot", didot; 
 }
 
-.linkedin {
+.social {
   position: relative;
+  top: 106px;
+  left: 710px;
+  color: white;
+  font-size: 12px;
+  font-family: "didot", didot; 
+}
+
+.linkedin {
+  z-index: 1;
+  position: relative;
+  top: 120px;
+  left: 840px;
 }
 
 .github {
   position: relative;
+  left: 670px;
+  bottom: 20px;
 }
 
 img {
-	position: relative;
-	top: 150px;
   width: 10%;
 }
