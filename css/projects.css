@@ -43,6 +43,17 @@ hr {
   color: #003200;
 }
 
+.jpdesc {
+  position: relative;
+  top: 70px;
+  left: 172px;
+  font-family: "didot", didot;
+  font-size: 16px;
+  width: 25%;
+  display: inline-block;
+  color: #003200;
+}
+
 .JP {
   position: relative;
   left: 164px;
@@ -53,15 +64,25 @@ hr {
   font-family: "didot", didot;
   position: relative;
   left: 770px;
-  bottom: 648px;
+  bottom: 892px;
   font-size: 50px;
+  color: #003200;
+}
+
+.suzydesc {
+  position: relative;
+  bottom: 906px;
+  left: 769px;
+  font-family: "didot", didot;
+  font-size: 16px;
+  width: 25%;
   color: #003200;
 }
 
 .SJ {
   position: relative;
   left: 675px;
-  bottom: 659px;
+  bottom: 894px;
 }
 
 .earlywork {
