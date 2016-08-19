@@ -85,12 +85,36 @@ hr {
   bottom: 894px;
 }
 
-.earlywork {
-  /*float: left;*/
+.gawk {
   font-family: "didot", didot;
   position: relative;
-  left: 800px;
-  bottom: 460px;
+  left: 208px;
+  bottom: 592px;
+  font-size: 50px;
+  color: #003200;
+}
+
+.gawkdesc {
+  position: relative;
+  bottom: 604px;
+  left: 210px;
+  font-family: "didot", didot;
+  font-size: 16px;
+  width: 25%;
+  color: #003200;
+}
+
+.gawkl {
+  position: relative;
+  bottom: 590px;
+  left: 100px;
+}
+
+.earlywork {
+  font-family: "didot", didot;
+  position: relative;
+  left: 790px;
+  bottom: 1100px;
   font-size: 50px;
   color: #003200;
 }
@@ -98,5 +122,6 @@ hr {
 .under {
   position: relative;
   left: 42px;
-  font-size: 20px;
+  bottom: 10px;
+  font-size: 16px;
 }
