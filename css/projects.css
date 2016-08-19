@@ -10,6 +10,11 @@ A {
   text-decoration: none;
 }
 
+body {
+  height: 900px;
+  width: 1264px;
+}
+
 nav li {
   display: inline-block;
   width: 130px;
@@ -18,8 +23,8 @@ nav li {
 hr {
   position: relative;
   top: 5px;
-  border-color: #006600;
-  background-color: #006600;
+  border-color: #003200;
+  background-color: #003200;
   height: 1px;
 }
 
@@ -35,7 +40,7 @@ hr {
   left: 230px;
   top: 100px;
   font-size: 50px;
-  color: #006600;
+  color: #003200;
 }
 
 .JP {
@@ -48,25 +53,25 @@ hr {
   font-family: "didot", didot;
   position: relative;
   left: 770px;
-  bottom: 646px;
+  bottom: 648px;
   font-size: 50px;
-  color: #006600;
+  color: #003200;
 }
 
 .SJ {
   position: relative;
   left: 675px;
-  bottom: 663px;
+  bottom: 659px;
 }
 
 .earlywork {
   /*float: left;*/
   font-family: "didot", didot;
   position: relative;
-  left: 230px;
-  bottom: 400px;
+  left: 800px;
+  bottom: 460px;
   font-size: 50px;
-  color: #006600;
+  color: #003200;
 }
 
 .under {

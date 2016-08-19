@@ -11,7 +11,7 @@ A {
 }
 
 body {
-  background: #006600;
+  background: #003200;
 }
 
 nav li {
@@ -30,6 +30,32 @@ hr {
 .hr1 {
   position: relative;
   top: 115px;
+}
+
+.contactt {
+  position: relative;
+  top: 150px;
+  left: 250px;
+  color: white;
+  font-size: 16px;
+  font-family: "didot", didot; 
+}
+
+.contact {
+  position: relative;
+  top: 150px;
+  left: 250px;
+  color: white;
+  font-size: 24px;
+  font-family: "didot", didot; 
+}
+
+.linkedin {
+  position: relative;
+}
+
+.github {
+  position: relative;
 }
 
 img {
