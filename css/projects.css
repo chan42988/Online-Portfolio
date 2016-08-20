@@ -54,6 +54,10 @@ hr {
   color: #003200;
 }
 
+/*.red {
+  color: red;
+}*/
+
 .JP {
   position: relative;
   left: 164px;
@@ -64,14 +68,14 @@ hr {
   font-family: "didot", didot;
   position: relative;
   left: 770px;
-  bottom: 892px;
+  bottom: 912px;
   font-size: 50px;
   color: #003200;
 }
 
 .suzydesc {
   position: relative;
-  bottom: 906px;
+  bottom: 926px;
   left: 769px;
   font-family: "didot", didot;
   font-size: 16px;
@@ -82,7 +86,7 @@ hr {
 .SJ {
   position: relative;
   left: 675px;
-  bottom: 894px;
+  bottom: 914px;
 }
 
 .gawk {
