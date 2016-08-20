@@ -34,7 +34,7 @@ hr {
 
 .contactt {
   position: relative;
-  top: 200px;
+  top: 148px;
   left: 250px;
   color: white;
   font-size: 12px;
@@ -43,7 +43,7 @@ hr {
 
 .contact {
   position: relative;
-  top: 208px;
+  top: 155px;
   left: 250px;
   color: white;
   font-size: 24px;
@@ -52,7 +52,7 @@ hr {
 
 .social {
   position: relative;
-  top: 106px;
+  top: 54px;
   left: 710px;
   color: white;
   font-size: 12px;
@@ -62,14 +62,14 @@ hr {
 .linkedin {
   z-index: 1;
   position: relative;
-  top: 120px;
+  top: 68px;
   left: 840px;
 }
 
 .github {
   position: relative;
+  bottom: 72px;
   left: 670px;
-  bottom: 20px;
 }
 
 img {
