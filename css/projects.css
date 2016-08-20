@@ -89,24 +89,24 @@ hr {
   font-family: "didot", didot;
   position: relative;
   left: 208px;
-  bottom: 592px;
+  bottom: 532px;
   font-size: 50px;
   color: #003200;
 }
 
-.gawkdesc {
+/*.gawkdesc {
   position: relative;
-  bottom: 604px;
+  bottom: 582px;
   left: 210px;
   font-family: "didot", didot;
   font-size: 16px;
   width: 25%;
   color: #003200;
-}
+}*/
 
 .gawkl {
   position: relative;
-  bottom: 590px;
+  bottom: 539px;
   left: 100px;
 }
 
@@ -114,14 +114,14 @@ hr {
   font-family: "didot", didot;
   position: relative;
   left: 790px;
-  bottom: 1100px;
+  bottom: 980px;
   font-size: 50px;
   color: #003200;
 }
 
 .under {
   position: relative;
-  left: 42px;
+  left: 63px;
   bottom: 10px;
   font-size: 16px;
 }
