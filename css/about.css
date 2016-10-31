@@ -18,8 +18,8 @@ nav li {
 hr {
   position: relative;
   top: 5px;
-  border-color: #003200;
-  background-color: #003200;
+  border-color: #003399;
+  background-color: #003399;
   height: 1px;
 }
 
@@ -55,5 +55,5 @@ img {
   padding: 10px;
   width: 48%;
   display: inline-block;
-  color: #003200;
+  color: #003399;
 }
