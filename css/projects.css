@@ -40,7 +40,6 @@ hr {
   left: 230px;
   top: 100px;
   font-size: 50px;
-  color: #003399;
 }
 
 .jpdesc {
@@ -51,12 +50,11 @@ hr {
   font-size: 16px;
   width: 25%;
   display: inline-block;
-  color: #003399;
 }
 
-/*.red {
+.red {
   color: red;
-}*/
+}
 
 .JP {
   position: relative;
@@ -70,7 +68,6 @@ hr {
   left: 770px;
   bottom: 912px;
   font-size: 50px;
-  color: #003399;
 }
 
 .suzydesc {
@@ -80,7 +77,6 @@ hr {
   font-family: "didot", didot;
   font-size: 16px;
   width: 25%;
-  color: #003399;
 }
 
 .SJ {
@@ -95,7 +91,6 @@ hr {
   left: 208px;
   bottom: 532px;
   font-size: 50px;
-  color: #003399;
 }
 
 /*.gawkdesc {
@@ -120,7 +115,6 @@ hr {
   left: 790px;
   bottom: 980px;
   font-size: 50px;
-  color: #003399;
 }
 
 .under {
